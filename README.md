@@ -133,7 +133,7 @@ print(f"Decision Tree Accuracy: {accuracy_score(y_test, y_pred)}")
 # Repeat similar steps for other models
 ```
 ## license
-This program is under the MIT License
+This program is under the [MIT License](LICENSE)
 
 ## Conclusion
 
