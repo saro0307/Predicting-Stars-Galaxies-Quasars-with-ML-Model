@@ -1,4 +1,4 @@
-## Predicting Stars, Galaxies & Quasars with ML Model
+# Predicting Stars, Galaxies & Quasars with ML Model
 
 This project focuses on building machine learning models to classify celestial objects into stars, galaxies, and quasars using a provided dataset. The following sections detail the workflow and the steps taken in the notebook.
 
